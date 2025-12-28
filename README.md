@@ -1,2 +1,6 @@
-# BigData_AnaliticaDeDatos_TrabajoFinal
-Proyecto académico del ciclo 2025-2 enfocado en el diseño e implementación de un flujo de análisis de datos utilizando Databricks y PySpark para el procesamiento, MongoDB para el almacenamiento flexible y Power BI para la visualización y reporte de resultados, desarrollado en el marco del curso Big Data y Analítica de Datos.
+# Visualización y análisis en Power BI
+Esta rama contiene los archivos y recursos de Power BI utilizados para la construcción del dashboard analítico, desarrollado a partir del modelo dimensional implementado en Databricks. El objetivo del dashboard es facilitar el análisis del desempeño financiero de los eventos de Nuevos Medios, permitiendo evaluar indicadores como monto pagado, importes presupuestados, márgenes estimados, comportamiento de clientes y pagos a proveedores.
+
+La integración entre Power BI y Databricks se realizó mediante conexión nativa a SQL Warehouses, lo que permitió el consumo directo de las tablas del Data Warehouse asegurando consistencia, trazabilidad y actualización de la información. A partir de este modelo, se diseñaron visualizaciones orientadas al análisis temporal y comparativo, identificando tendencias anuales y mensuales, patrones de estacionalidad y variaciones en los costos operativos.
+
+El dashboard incluye gráficos que permiten contrastar el presupuesto frente a los montos efectivamente pagados y el margen esperado, proporcionando una visión integrada del rendimiento financiero y apoyando la toma de decisiones basada en datos. Cada visualización fue construida con un enfoque analítico, priorizando claridad, interpretabilidad y alineación con los KPIs estratégicos del negocio.
